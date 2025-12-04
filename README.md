@@ -18,6 +18,12 @@
 
 ---
 
+## 📸 Demo Results
+**Demo Image:**
+(https://drive.google.com/file/d/1C4TXMmE1eS7VoHVeQ7fPNUiNQk0WOfci/view?usp=sharing)
+**Demo Document:**
+(https://drive.google.com/file/d/1jWPL9cSK1HR2JjImZGIdhnUSRL6YaCtk/view?usp=sharing)
+
 ## 📖 Overview
 
 **RE-DACT** is a comprehensive solution designed to address privacy concerns in the age of big data. Sensitive PII (like Aadhaar numbers) is frequently exposed in documents, but standard redaction (black boxes) permanently destroys this data.
